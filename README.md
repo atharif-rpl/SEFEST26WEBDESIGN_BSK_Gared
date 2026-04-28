@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🥗 GreenBite - Save Food, Save Earth
 
-## Getting Started
+**GreenBite** adalah platform inovatif berbasis web yang berfokus pada gerakan *Food Rescue*. Platform ini menghubungkan restoran, kafe, dan toko roti yang memiliki makanan surplus (kelebihan stok) berkualitas dengan pengguna yang ingin membeli makanan dengan harga jauh lebih murah. 
 
-First, run the development server:
+Proyek ini dikembangkan sebagai solusi untuk mengurangi limbah makanan (*food waste*) sekaligus memberikan akses makanan terjangkau bagi masyarakat, khususnya pelajar dan mahasiswa.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🏆 Competition Context
+Proyek ini didevelop secara khusus oleh tim **Gared** untuk mengikuti kompetisi **SEFEST 2026 (Web Design Competition)**. 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Developer:** Atharif Pratama Budiman
+- **Institution:** IDN Boarding School (Software Engineering)
+- **Project Goal:** Mendemonstrasikan implementasi UI/UX Neo-Brutalism dengan fungsionalitas e-commerce food-rescue yang responsif.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🚀 Fitur Utama
+- **Automated Rescue Slider:** Etalase produk surplus yang bergerak dinamis dengan info urgensi waktu.
+- **Eco-Impact Tracker:** Animasi angka berjalan yang menghitung total porsi makanan diselamatkan dan emisi CO2 yang dicegah.
+- **Neo-Brutalist Dashboard:** Desain antarmuka yang berani, kontras, dan estetik (Scrapbook Style).
+- **Responsive E-commerce Catalog:** Halaman katalog lengkap dengan fitur pencarian real-time.
+- **Smooth Navigation & Intro:** Dilengkapi dengan Splash Screen premium untuk pengalaman pengguna yang lebih *seamless*.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Tech Stack
+Proyek ini dibangun menggunakan teknologi modern untuk memastikan performa yang cepat dan kode yang mudah dipelihara:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Framework:** [Next.js 14 (App Router)](https://nextjs.org/)
+- **Language:** [TypeScript](https://www.typescriptlang.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Animations:** CSS Keyframes & Framer Motion (Optional)
+- **Iconography:** Emoji & Lucide Icons
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📦 Cara Menjalankan Proyek Secara Lokal
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Pastikan Anda sudah menginstal [Node.js](https://nodejs.org/) di perangkat Anda.
+
+1. **Clone Repository**
+   ```bash
+   git clone [https://github.com/atharif-rpl/SEFEST26WEBDESIGN_BSK_Gared.git](https://github.com/atharif-rpl/SEFEST26WEBDESIGN_BSK_Gared.git)
+   cd SEFEST26WEBDESIGN_BSK_Gared
