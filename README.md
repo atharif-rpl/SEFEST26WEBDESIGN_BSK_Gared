@@ -9,8 +9,9 @@ Proyek ini dikembangkan sebagai solusi untuk mengurangi limbah makanan (*food wa
 ## 🏆 Competition Context
 Proyek ini didevelop secara khusus oleh tim **Gared** untuk mengikuti kompetisi **SEFEST 2026 (Web Design Competition)**. 
 
-- **Developer:** Atharif Pratama Budiman
-- **Institution:** IDN Boarding School (Software Engineering)
+- **Developer:** Atharif Pratama Budiman & Maulana Moreno Ibrahim
+- **Designer:** Valdimir Malik Irawan
+- **Institution:** IDN Boarding School (Software Engineering)-(UI/UX Designer)
 - **Project Goal:** Mendemonstrasikan implementasi UI/UX Neo-Brutalism dengan fungsionalitas e-commerce food-rescue yang responsif.
 
 ---
